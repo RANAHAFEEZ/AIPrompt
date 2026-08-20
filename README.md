@@ -10,7 +10,7 @@
 
 | Home Screen & Search | Add/Edit Prompt | Clipboard & Details |
 | :---: | :---: | :---: |
-| ![Home]([url_to_home_screenshot.png](https://github.com/RANAHAFEEZ/AIPrompt/blob/main/app/src/main/java/asset/Screenshot%202026-08-19%20at%2011.01.59%E2%80%AFAM.png)) | ![Add]([url_to_add_screenshot.png](https://github.com/RANAHAFEEZ/AIPrompt/blob/main/app/src/main/java/asset/Screenshot%202026-08-19%20at%2011.01.59%E2%80%AFAM.png)) | ![Details]([url_to_details_screenshot.png](https://github.com/RANAHAFEEZ/AIPrompt/blob/main/app/src/main/java/asset/Screenshot%202026-08-19%20at%2011.01.59%E2%80%AFAM.png)) |
+| ![Home](https://raw.githubusercontent.com/RANAHAFEEZ/AIPrompt/main/app/src/main/java/asset/Screenshot%202026-08-19%20at%2011.01.59%E2%80%AFAM.png) | ![Add](https://raw.githubusercontent.com/RANAHAFEEZ/AIPrompt/main/app/src/main/java/asset/Screenshot%202026-08-19%20at%2011.01.59%E2%80%AFAM.png) | ![Details](https://raw.githubusercontent.com/RANAHAFEEZ/AIPrompt/main/app/src/main/java/asset/Screenshot%202026-08-19%20at%2011.01.59%E2%80%AFAM.png)|
 
 ---
 
